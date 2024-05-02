@@ -7,7 +7,7 @@ linearPhenotypeRegression("/Users/gauravsablok/Desktop/phenotype.csv",
 
                                   
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
